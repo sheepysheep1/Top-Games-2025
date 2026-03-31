@@ -1,0 +1,60 @@
+{
+  "best_games_2025": [
+    {
+      "title": "Clair Obscur: Expedition 33",
+      "genre": "RPG",
+      "developer": "Sandfall Interactive",
+      "platforms": ["PC", "PS5", "Xbox Series X/S"],
+      "highlight": "Best Narrative/RPG - Game of the Year"
+    },
+    {
+      "title": "Hades II",
+      "genre": "Roguelike",
+      "developer": "Supergiant Games",
+      "platforms": ["PC", "Switch 2", "Switch", "Xbox Series X/S"],
+      "highlight": "Best Action/Indie"
+    },
+    {
+      "title": "Ghost of Yōtei",
+      "genre": "Open World",
+      "developer": "Sucker Punch",
+      "platforms": ["PS5"],
+      "highlight": "Best Sony Exclusive"
+    },
+    {
+      "title": "Hollow Knight: Silksong",
+      "genre": "Platformer",
+      "developer": "Team Cherry",
+      "platforms": ["PC", "PS5", "Xbox Series X/S", "Switch", "Switch 2"],
+      "highlight": "Best Platforming"
+    },
+    {
+      "title": "Kingdom Come: Deliverance II",
+      "genre": "RPG",
+      "developer": "Warhorse Studios",
+      "platforms": ["PC", "PS5", "Xbox Series X/S"],
+      "highlight": "Most Immersive RPG"
+    },
+    {
+      "title": "Split Fiction",
+      "genre": "Co-op Adventure",
+      "developer": "Hazelight Studios",
+      "platforms": ["PC", "PS5", "Xbox Series X/S", "Switch 2"],
+      "highlight": "Best Cooperative Multiplayer"
+    },
+    {
+      "title": "Arc Raiders",
+      "genre": "Extraction Shooter",
+      "developer": "Embark Studios",
+      "platforms": ["PC", "PS5", "Xbox Series X/S"],
+      "highlight": "Best Competitive Multiplayer"
+    },
+    {
+      "title": "Blue Prince",
+      "genre": "Puzzle/Roguelike",
+      "developer": "Dogubomb",
+      "platforms": ["PC", "PS5", "Xbox Series X/S", "Switch 2"],
+      "highlight": "Most Memorable/Unique"
+    }
+  ]
+}
