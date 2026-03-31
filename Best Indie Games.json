@@ -3,17 +3,17 @@
   {
     "title": "Undertale",
     "genre": "RPG",
-    "developer": "Toby Fox",
+    "developer": "Toby Fox"
   },
   {
     "title": "Bastion",
     "genre": "Action RPG",
-    "developer": "Supergiant Games",
+    "developer": "Supergiant Games"
   },
   {
     "title": "Void Stranger",
     "genre": "Sokobon",
-    "developer": "System Erasure",
+    "developer": "System Erasure"
   },
   {
     "title": "Hollow Knight",
@@ -23,17 +23,17 @@
   {
     "title": "Zniw Adventures",
     "genre": "Point and click",
-    "developer": "Azure Mountain",
+    "developer": "Azure Mountain"
   },
   {
     "title": "the Witness",
     "genre": "Puzzle",
-    "developer": "Tekla",
+    "developer": "Tekla"
   },
   {
     "title": "Celeste",
     "genre": "Platformer",
-    "developer": "Maddy Makes Games",
+    "developer": "Maddy Makes Games"
   }
 ]
 
