@@ -1,0 +1,37 @@
+[
+  {
+    "class": "Computer Science",
+    "grade": "B",
+    "semester": "Fall"
+  },
+  {
+    "class": "College Algebra",
+    "grade": "D",
+    "semester": "Summer"
+  },
+  {
+    "class": "English 101",
+    "grade": "B",
+    "semester": "Spring"
+  },
+  {
+    "class": "Web Development",
+    "grade": "C",
+    "semester": "Fall"
+  },
+  {
+    "class": "Art Appreciation",
+    "grade": "F",
+    "semester": "Summer"
+  },
+  {
+    "class": "Chemistry",
+    "grade": "C",
+    "semester": "Fall"
+  },
+  {
+    "class": "Java",
+    "grade": "A",
+    "semester": "Spring"
+  }
+]
